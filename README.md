@@ -9,7 +9,10 @@ Ensure you have the following software installed on your laptop:
  - Visual Studio Code (dark theme and extensions: Python, Jupyter, Rainbow CSV)
  - When you install Jupyter to make sure all packages are installed.
 
- ´´´ jupyter --version ´´´
+ ´´´ 
+ jupyter --version 
+ 
+ ´´´
 
 ## Project tasks
 1. Clone the repo and access it using VS Code
