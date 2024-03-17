@@ -11,6 +11,8 @@ Ensure you have the following software installed on your laptop:
 
 ```
 jupyter --version
+
+python3 --version
 ```
 
 ## Project tasks
